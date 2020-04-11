@@ -2,7 +2,8 @@
 # Popular Places in Kentucky
 Click on the link to discover fun things to do in Kentucky
 
-[Link to GeoPDF](ThingsinKy.pdf)
+[Link to GeoPDF](KYMap/ThingsInKy.pdf)
+
 
 Images of Experiences in Louisville and Lexington
 
